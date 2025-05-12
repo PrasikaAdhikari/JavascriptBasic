@@ -1,0 +1,26 @@
+[
+  {
+    "movies": [
+      {
+        "Title": "titanic",
+        "year": 1984,
+        "genre": ["love", "action"],
+        "director": {
+          "firstName": "Spielberg",
+          "lastName": "Steven"
+        },
+        "rating": 4,
+        "actors": [
+          {
+            "firstName": "Leo",
+            "lastName": "Dicaprio"
+          },
+          {
+            "firstName": "Kate",
+            "lastName": "Winglet"
+          }
+        ]
+      }
+    ]
+  }
+]
